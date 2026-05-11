@@ -207,14 +207,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## Author
-
-**Vineetha Rangineni** — MS-IST @ University of North Texas | Python | SQL | Data Analytics
-
-GitHub: [@Vineetha16062001](https://github.com/Vineetha16062001) · LinkedIn: [vineetha-rangineni](https://linkedin.com/in/vineetha-rangineni)
-
----
-
 ## About
 
 E-Commerce Sales Analytics Dashboard built with Python, Pandas, Matplotlib, and Seaborn.
